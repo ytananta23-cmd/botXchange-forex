@@ -1,0 +1,6 @@
+{
+  "name": "botXchange",
+  "description": "World-Class AI-Powered Forex & CFD Automated Trading Platform. Connect MT4, MT5, and cTrader brokers to deploy institutional-grade automated trading bots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
